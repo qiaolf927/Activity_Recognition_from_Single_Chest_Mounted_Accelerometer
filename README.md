@@ -1,0 +1,1 @@
+# Activity_Recognition_from_Single_Chest_Mounted_Accelerometer
